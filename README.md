@@ -10,7 +10,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
   ##
-  ![snake gif](https://github.com/Yuri-Rodriguees/Yuri-Rodriguees/blob/output/github-snake.svg)
+  ![snake gif]([https://github.com/Yuri-Rodriguees/Yuri-Rodriguees/blob/main/action.yml)
 
  
 <div> 
